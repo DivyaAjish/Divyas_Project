@@ -1,0 +1,87 @@
+{
+    "grocery":[
+        {
+            "slno":1,
+            "name":"Rice",
+            "Quantity":10,
+            "unit":"KG",
+            "Department":"food",
+            "notes":"boiled rice"
+        },
+        {
+            "slno":2,
+            "name":"Atta",
+            "Quantity":5,
+            "unit":"KG",
+            "Department":"food",
+            "notes":"Ashirvad"
+        },
+        {
+            "slno":3,
+            "name":"Sugar",
+            "Quantity":2,
+            "unit":"KG",
+            "Department":"food",
+            "notes":"Parys"
+        },
+        {
+            "slno":4,
+            "name":"Soap",
+            "Quantity":1,
+            "unit":"number",
+            "Department":"Beauty",
+            "notes":"Medimix"
+        },
+        {
+            "slno":5,
+            "name":"Tooth Paste",
+            "Quantity":2,
+            "unit":"number",
+            "Department":"Health",
+            "notes":"Ashirvad"
+        },
+        {
+            "slno":6,
+            "name":"Oranges",
+            "Quantity":2,
+            "unit":"KG",
+            "Department":"food",
+            "notes":"small one"
+        },
+        {
+            "slno":7,
+            "name":"pachment paper",
+            "Quantity":5,
+            "unit":"number",
+            "Department":"stationary",
+            "notes":"2mtr"
+        },
+        {
+            "slno":8,
+            "name":"Milk",
+            "Quantity":2,
+            "unit":"Liter",
+            "Department":"food",
+            "notes":"Amul"
+        },
+        {
+            "slno":9,
+            "name":"sanitizer",
+            "Quantity":5,
+            "unit":"number",
+            "Department":"health",
+            "notes":"godrej"
+        },
+        {
+            "slno":10,
+            "name":"onions",
+            "Quantity":2,
+            "unit":"KG",
+            "Department":"food",
+            "notes":"big"
+        }
+
+
+        
+    ]
+}
